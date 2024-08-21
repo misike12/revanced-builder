@@ -9,5 +9,4 @@ integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-
 included-patches = "'Remove player controls background' 'Custom branding' 'Change header' 'Enable slide to seek'"
